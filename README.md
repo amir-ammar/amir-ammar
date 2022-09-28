@@ -34,7 +34,9 @@
 <span>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amir-ammar&repo=oc-backend)](https://github.com/amir-ammar/oc-backend)</span>
 <span>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amir-ammar&repo=Backend-Practice)](https://github.com/amir-ammar/Backend-Practice)</span>
 <span>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amir-ammar&repo=Computer-architecture-project&bg_color=DEG)](https://github.com/amir-ammar/Computer-architecture-project)</span>
+<span>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amir-ammar&repo=leetcode&bg_color=DEG)](https://github.com/amir-ammar/leetcode)</span>
 <span>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amir-ammar&repo=PostGrad-DB&bg_color=DEG)](https://github.com/amir-ammar/PostGrad-DB)</span>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ammar&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ammar" /> </p>
