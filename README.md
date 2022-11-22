@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/amir-ammar](https://github.com/amir-ammar)
 
 - 💬 Ask me about **javascript, nodejs, sql, mongodb, react, html, css**
-- Personal website **amirammar.me**
+- Personal website [amirammar.me](amirammar.me)
 - 📫 How to reach me **amir@amirammar.me**
 
 <h3 align="left">Connect with me:</h3>
