@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Amir ammar</h1>
 <h3 align="center">A passionate backend developer from egypt</h3>
 
-- 🔭 I’m currently working on [facebook-clone](https://github.com/amir-ammar/facebook-clone)
-
 - 🌱 I’m currently learning **Nodejs, React, System design, reading about Design patterns**
 
 - 👯 I’m looking to collaborate on [oc-backend](https://github.com/amir-ammar/oc-backend)
